@@ -1,0 +1,7 @@
+fputs ile dosyW içine düz yWzý yWzýyorumfputs ile dosyW içine düz yWzý yWzýyorum
+simdide fptr ile yWzý yWzýyorumfputs ile dosyW içine düz yWzý yWzýyorum
+simdide fprintf ile yWzý yWzýyorum
+********2. dosyW geldi*********
+ fputs ile dosyW içine düz yWzý yWzýyorumfputs ile dosyW içine düz yWzý yWzýyorum
+simdide fptr ile yWzý yWzýyorumfputs ile dosyW içine düz yWzý yWzýyorum
+simdide fprintf ile yWzý yWzýyorum

@@ -1,0 +1,7 @@
+fputs ile dosya içine düz yazý yazýyorumfputs ile dosya içine düz yazý yazýyorum
+simdide fptr ile yazý yazýyorumfputs ile dosya içine düz yazý yazýyorum
+simdide fprintf ile yazý yazýyorum
+
+ fputs ile dosya içine düz yazý yazýyorumfputs ile dosya içine düz yazý yazýyorum
+simdide fptr ile yazý yazýyorumfputs ile dosya içine düz yazý yazýyorum
+simdide fprintf ile yazý yazýyorum
